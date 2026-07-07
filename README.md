@@ -1,2 +1,2 @@
-# My-Resume
+# html.resume
 Detailing my first resume
